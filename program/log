@@ -1,0 +1,5 @@
+3layers: epoch = 14~15 is the beat
+4layers_sgd(l2regulazation 1e-8):(epoch = 20):(best_now)
+		0.755431149733
+		0.740307486631
+		0.700701871658

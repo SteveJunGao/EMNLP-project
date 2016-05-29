@@ -1,0 +1,7 @@
+readme:
+file_name : description
+get_sentence.py : change the file format( words in the same sentneces appear in the same line diveded by the blank)
+read_file.py : read all the words and poses and arclabels
+getTrainiingData.py : transfer the original data to the format which we could feed to the neural network
+transition : a framework for transition-based algorithm
+getDependencyTree.py : read the original file from the data and convert to a dict array

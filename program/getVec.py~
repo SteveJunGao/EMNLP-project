@@ -1,0 +1,5 @@
+import word2vec
+model = word2vec.load('../data/trn_senVec.bin')
+print model.vocab
+print model.vectors.shape
+print model['广东']
